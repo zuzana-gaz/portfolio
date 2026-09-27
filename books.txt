@@ -1,0 +1,5 @@
+K050,Meno ruže,Umberto Eco,historia,1980
+K312,Jane Eyrová,Charlotte Brontë,romantika,1847
+K011,Stroj času,H. G. Wells,sci-fi,1895
+K589,Končí sa to nami,Colleen Hoover,romantika,2016
+K770,Duna,Frank Herbert,sci-fi,1965
